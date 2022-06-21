@@ -1,0 +1,11 @@
+
+.grid { margin:1em auto; border-collapse:collapse }
+.grid td {
+    cursor: pointer;
+    width: 30px;
+    height: 30px;
+    border:1px solid gray;
+    background-color: lightgrey;
+    text-align: center;
+    font-size:13px
+}
